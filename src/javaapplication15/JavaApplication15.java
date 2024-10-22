@@ -17,4 +17,7 @@ public class JavaApplication15 {
         // TODO code application logic here
     }
     
+        public void CAlcular()
+    {}
+    
 }
